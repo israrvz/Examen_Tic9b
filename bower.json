@@ -1,0 +1,23 @@
+{
+  "name": "Examen9B",
+  "authors": [
+    "israrvz <42953669+israrvz@users.noreply.github.com>"
+  ],
+  "description": "Examen del primer parcial 9b",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "fontawesome": "^5.9.0",
+    "jquery": "^3.4.1"
+  }
+}
